@@ -17,4 +17,4 @@ Existem duas maneiras principais:
 
 # Explicação código em Python
 
-Calculadora que executa operações matemáticas básicas (+, -, *, /), aplicação em python
+Plataforma para inserir o seu nome. Ela dá a resposta com "Seja bem vindo" e o nome a frente
