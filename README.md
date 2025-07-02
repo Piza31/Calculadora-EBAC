@@ -17,4 +17,4 @@ Existem duas maneiras principais:
 
 # Explicação código em Python
 
-Plataforma para inserir o seu nome. Ela dá a resposta com "Seja bem vindo" e o nome a frente
+Aplicação que faz operações matemáticas simples de adição, subtração, multiplicação e divisão, na iniciação solicita a inserção do nome do usuário.
